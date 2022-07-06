@@ -1,11 +1,11 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
-  * times_table - Prints the 9 times table, starting with 0
-  *
-  * Return: empty output
-  */
-void times_table(void)
+ *main - check the code
+ *
+ *Return: Always 0.
+ */
+int main(void)
 {
 	int x, y, z, u, d;
 
