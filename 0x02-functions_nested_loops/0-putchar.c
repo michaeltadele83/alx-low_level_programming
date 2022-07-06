@@ -7,7 +7,6 @@
   */
 int main(void)
 {
-	/* main description */
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
