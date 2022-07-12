@@ -19,7 +19,7 @@ int _atoi(char *s)
 		{
 			min *= -1;
 		}
-	
+		
 		while (s[c] >= 48 && s[c] <= 57)
 		{
 			isi = 1;
@@ -38,3 +38,4 @@ int _atoi(char *s)
 	ni *= min;
 	return (ni);
 }
+
